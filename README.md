@@ -1,2 +1,2 @@
-# estudo-clone-tema-awax
-Página clonada de um tema.
+# Página clonada de tema.
+Criada para fins educativos.
