@@ -1,2 +1,7 @@
-# Página clonada de tema.
-Criada para fins educativos.
+# Awax - study
+
+This project is a clone of a webpage design for study purpposes.
+
+## Stack
+
+**Front-end:** HTML and CSS. 
